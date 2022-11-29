@@ -5,3 +5,5 @@ Una vez que tuvimos el estilo deseado, Lucas Piccolini gestiono las distitas vie
 Luciano Mellone genero un html "Padre", que luego utilizamos para poder generar herencia de HTML y luego creo los demas HTML para darle forma a la pagina. Ademas se encargo de la parte de CSS para darle color a la pagina. 
 Lorenzo Monti Azpiazú realizo 2 tipos de formularios, para agregar locales (dependiendo de su especialidad) a la base de datos y otro de búsqueda. Tambien se encargo de los modelos y creo un ADMIN para poder crear, editar o eliminar superusuarios y usuarios, agregar avatars, etc.
 La realidad es que todos hicimos un poco de todo, si alguien no podia con algun codigo nos ayudabamos para corregirlo y que quede de la mejor manera posible.
+
+[![Alt text](https://img.youtube.com/vi/42vreS3uVXs/0.jpg)](https://www.youtube.com/watch?v=42vreS3uVXs)
