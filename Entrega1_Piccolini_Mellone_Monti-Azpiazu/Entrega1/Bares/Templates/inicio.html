@@ -1,0 +1,18 @@
+{% extends 'padre.html' %}
+
+{% load static %}
+
+{% block contenidoQueCambia %}
+<h2>{{mensaje}}</h2>
+{% if user.is_authenticated %}
+<h3 id="iniciosesion" >¿Qué deseas buscar hoy?</h3>
+{% else %}
+<div>
+    <h4 id="iniciosesion">Crea tu usuario gratuito, o inicia sesión</h4>
+    <a id="login-btn" href="{% url 'login' %}">Login</a>
+    <a id="login-btn" href="{% url 'registrar' %}">Registrarme</a>
+</div>
+{% endif %}
+
+
+{% endblock contenidoQueCambia %}
